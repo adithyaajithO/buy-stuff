@@ -1,0 +1,51 @@
+{
+    "departments": [
+        {
+            "dept": "Electronics",
+            "category": [
+                "Cellphones & Smartphones",
+                "TVs"
+            ]
+        },
+        {
+            "dept": "Business & Industrial",
+            "category": [
+                "Test & Measures",
+                "Lab & Scientific"
+            ]
+        },
+        {
+            "dept": "Computers",
+            "category": [
+                "Software",
+                "Laptops"
+            ]
+        },
+        {
+            "dept": "Fashion",
+            "category": [
+                "Clothing",
+                "Shoes"
+            ]
+        },
+        {
+            "dept": "Home & Garden",
+            "category": [
+                "Home Decor",
+                "Garden & Outdoors"
+            ]
+        }
+    ],
+    "categories": [
+        "Cellphones & Smartphones",
+        "TVs",
+        "Test & Measures",
+        "Lab & Scientific",
+        "Software",
+        "Laptops",
+        "Clothing",
+        "Shoes",
+        "Home Decor",
+        "Garden & Outdoors"
+    ]
+}

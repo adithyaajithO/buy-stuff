@@ -1,0 +1,5 @@
+export const GET_DEPTS = 'GET_DEPTS';
+
+export const GET_CATEGORIES_BY_DEPT = 'GET_CATEGORIES_BY_DEPT';
+
+export const GET_ALL_CATEGORIES = 'GET_ALL_CATEGORIES';
